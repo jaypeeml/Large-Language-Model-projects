@@ -1,3 +1,3 @@
-# Large-Language-Model-projects
+# Automatic Generation of Visualizations and analyzing data with LLM.
 
-This is my GitHub repo for my LLM projects
+Tech Stack:  LLM GPT 3.5-turbo-0301, LIDA, Streamlit, Google cloud, Vertex AI, Jupyter Notebook, Hugging Face
