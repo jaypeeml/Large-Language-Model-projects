@@ -1,0 +1,6 @@
+lida
+lida[transformers]
+torch
+streamlit
+python-dotenv
+llmx==0.0.10a0
